@@ -1,0 +1,44 @@
+*{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.tabela_media {
+    border: solid 2px;
+    margin-left: auto;
+}
+
+.celula {
+    border: solid 3px;
+}
+
+.celula_cabecalho {
+    border: solid 3px;
+    font: Times;
+    font-size: 20px;
+}
+
+.segunda_linha{
+    background-color: chartreuse;
+}
+
+body{
+    width: 50%;
+}
+
+#row{
+    display: flex;
+    justify-content: space-between;
+}
+
+#div_table_1 {
+
+}
+
+#div_table_2 {
+}
+
+#terceira_linha{
+    background-color: red;
+}
